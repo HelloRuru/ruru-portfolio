@@ -1,4 +1,3 @@
-/* Ruru's Portfolio Script */
 const MY_DOMAIN = 'portfolio.helloruru.com'; 
 const START_PAGE = 'https://magnetic-cherry-1ce.notion.site/Kaoru-Tsai-2e0ce4a7249b810bba71d607e87a2486';
 
